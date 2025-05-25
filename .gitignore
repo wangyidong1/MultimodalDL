@@ -1,0 +1,21 @@
+/PennFudanPed
+/training_records
+/trained_models
+/radiologists_annotated
+/radiologist_ann_results
+/radiologist_ann_results_separate
+/backup
+/eval_results
+/compressed_files
+/high_scores
+/writing
+# /slides
+# /charts
+/deprecated
+backup.bib
+/CXR+Clinical (fusion1+2)
+*.tex
+*.zip
+/evalute_both_models_by_case*
+/REFLACX_GROUNDTRUTH*
+/reflacx_vs_our
